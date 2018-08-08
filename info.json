@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "roy",
+      "location": "india"
+    },
+    {
+      "id": 2,
+      "name": "sam",
+      "location": "wales"
+    },
+    {
+      "user": {
+        "firstName": "test",
+        "lastName": "test",
+        "username": "test",
+        "password": "1234"
+      },
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "user": {
+        "firstName": "test",
+        "lastName": "test",
+        "username": "test",
+        "password": "test"
+      },
+      "id": 7
+    }
+  ],
+  "empList": [
+    {
+      "empName": "VINOTH",
+      "empId": "CIPL05945",
+      "id": "3"
+    },
+    {
+      "empName": "sdfsfdf",
+      "empId": "dfdfdfdf",
+      "id": "LLnXqxd"
+    },
+    {
+      "empName": "scfdfd",
+      "empId": "sdfsdfsdf",
+      "id": "3sUl8Ef"
+    },
+    {
+      "empName": "BIBIN",
+      "empId": "CIPL0592",
+      "id": "v30Z~tP"
+    },
+    {
+      "empName": "BIBIN",
+      "empId": "CIPL0592",
+      "id": "8gHLeZC"
+    },
+    {
+      "empName": "VELKUMAR",
+      "empId": "855",
+      "id": "Gt7_wGf"
+    },
+    {
+      "empName": "sxcsdfsdf",
+      "empId": "dfdfdf",
+      "id": "Kk3Q~NL"
+    },
+    {
+      "empName": "fsdfsdf",
+      "empId": "sdfsdf",
+      "id": "pDdTyN1"
+    },
+    {
+      "empName": "dfklgvbdklgn",
+      "empId": "dfndjfbg",
+      "id": "ud7_KuJ"
+    },
+    {
+      "empName": "eeeeee",
+      "empId": "ffffff",
+      "id": "B0~3vNN"
+    },
+    {
+      "empName": "qqqqqqq",
+      "empId": "qqqqqqq",
+      "id": "7lMun_d"
+    },
+    {
+      "empName": "nnnnnnnnnnn",
+      "empId": "nnnnnnnnnn",
+      "id": "WknM4ry"
+    },
+    {
+      "empName": "xncvldvndl",
+      "empId": "dfkhdgjkf",
+      "id": "2c~qlz0"
+    },
+    {
+      "empName": "VINAY",
+      "empId": "CIPL25",
+      "id": "zvckFIa"
+    },
+    {
+      "empName": "VINAY",
+      "empId": "CIPL25",
+      "id": "TCqjtkB"
+    },
+    {
+      "empName": "VINAY KUMAR",
+      "empId": "CIPL25",
+      "id": "YGDUgSa"
+    },
+    {
+      "empName": "VINAY",
+      "empId": "CIPL25",
+      "id": "fCvTZ3z"
+    },
+    {
+      "empName": "MYREDUXAPP",
+      "empId": "REDUX1267",
+      "id": "quiUkuA"
+    },
+    {
+      "empName": "MYREDUXAPP",
+      "empId": "MU",
+      "id": "WFPsvma"
+    }
+  ]
+}
